@@ -1,4 +1,4 @@
-## 🏷️ README.md: Análise de Desempenho - Alura Store
+## 🏷️ Análise de Desempenho - Alura Store
 
 Este projeto contém a análise de dados de vendas de quatro diferentes lojas (**"Alura Store"**) para determinar qual delas apresenta o melhor desempenho financeiro e operacional, fornecendo uma recomendação estratégica de investimento.
 
